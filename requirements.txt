@@ -1,0 +1,10 @@
+fastapi
+uvicorn[standard]
+torch
+torchvision
+numpy
+scikit-image
+Pillow
+python-multipart
+opencv-python-headless
+face_recognition
