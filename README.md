@@ -1,5 +1,6 @@
 
-https://github.com/user-attachments/assets/e156cb20-2af7-4076-b576-23f1050fe01e
+https://github.com/user-attachments/assets/2cd0d089-9b30-48ac-9936-0194c1103158
+
 ## 🔐 **VerifyME - Advanced Biometric Verification System**
 
 ### 📋 **Project Introduction**
@@ -148,5 +149,8 @@ Make sure you have the following installed on your system:
 
 
 
-Uploading CV project demo - Made with Clipchamp.mp4
+
+
+
+
 
