@@ -1,3 +1,5 @@
+
+https://github.com/user-attachments/assets/e156cb20-2af7-4076-b576-23f1050fe01e
 ## 🔐 **VerifyME - Advanced Biometric Verification System**
 
 ### 📋 **Project Introduction**
@@ -106,10 +108,45 @@ This comprehensive biometric system provides enterprise-grade security while mai
 
 
 
-Quick Setup Instrructions
-git clone https://github.com/Krishna037/VerifyME.git
-cd VerifyME
-pip install -r requirements.txt
-npm install
-python signature_verification.py
+## 🚀 Quick Setup
+
+Follow these steps to get the project up and running on your local machine.
+
+### Prerequisites
+
+Make sure you have the following installed on your system:
+* [Git](https://git-scm.com/downloads)
+* [Python](https://www.python.org/downloads/) (which includes pip)
+* [Node.js](https://nodejs.org/en/download/) (which includes npm)
+
+### Installation & Setup
+
+1.  **Clone the repository:**
+    ```bash
+    git clone [https://github.com/Krishna037/VerifyME.git](https://github.com/Krishna037/VerifyME.git)
+    ```
+
+2.  **Navigate to the project directory:**
+    ```bash
+    cd VerifyME
+    ```
+
+3.  **Install Python dependencies (for the backend):**
+    ```bash
+    pip install -r requirements.txt
+    ```
+
+4.  **Install Node.js dependencies (for the frontend):**
+    ```bash
+    npm install
+    ```
+
+5.  **Run the main application:**
+    ```bash
+    python signature_verification.py
+    ```
+
+
+
+Uploading CV project demo - Made with Clipchamp.mp4
 
